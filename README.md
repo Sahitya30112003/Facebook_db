@@ -1,5 +1,3 @@
-## ConnectX: Your Social Media Hub with PostgreSQL Database
-
 This project implements a basic social media platform with functionalities such as user authentication, posting, commenting, liking, and friending.
 
 ### Files
